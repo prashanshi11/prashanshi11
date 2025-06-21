@@ -37,7 +37,7 @@ Email Me 👉 ✉️ **prashanshiy@gmail.com** For Collaboration/Project or Anyt
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset=[https://github.com/prashanshi11/prashanshi11/blob/output/pacman-contribution-graph-dark.svg]>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
