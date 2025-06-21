@@ -25,9 +25,6 @@ Email Me 👉 ✉️ **prashanshiy@gmail.com** For Collaboration/Project or Anyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prashanshi11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prashanshi11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -41,7 +38,6 @@ Email Me 👉 ✉️ **prashanshiy@gmail.com** For Collaboration/Project or Anyt
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
