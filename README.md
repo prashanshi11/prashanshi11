@@ -34,11 +34,4 @@ Email Me 👉 ✉️ **prashanshiy@gmail.com** For Collaboration/Project or Anyt
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=[https://github.com/prashanshi11/prashanshi11/blob/output/pacman-contribution-graph-dark.svg]>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![Pacman graph](https://raw.githubusercontent.com/prashanshi11/prashanshi11/output/pacman-contribution-graph.svg)
