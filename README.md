@@ -32,6 +32,8 @@ Email Me 👉 ✉️ **prashanshiy@gmail.com** For Collaboration/Project or Anyt
 [![](https://visitcount.itsvg.in/api?id=prashanshi11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Snake & 🕹️ Pacman Contribution Graphs
 
-
-![Pacman graph](https://raw.githubusercontent.com/prashanshi11/prashanshi11/output/pacman-contribution-graph.svg)
+| Snake | Pacman |
+|-------|--------|
+| ![Snake graph](https://raw.githubusercontent.com/prashanshi11/prashanshi11/output/snake.svg) | ![Pacman graph](https://raw.githubusercontent.com/prashanshi11/prashanshi11/output/pacman-contribution-graph.svg) |
