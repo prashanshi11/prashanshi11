@@ -1,41 +1,43 @@
 name: Generate Snake and Pacman Animations
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+  schedule: # every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-  workflow_dispatch:
 
 jobs:
-  generate-animations:
-    runs-on: ubuntu-latest
+  generate:
     permissions:
       contents: write
-    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # 🐍 Snake Graph
-      - name: Generate Snake Animation
+      # Snake Animation
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/snake.svg
 
-      # 🕹️ Pacman Graph
-      - name: Generate Pacman Animation
+      # Pacman Animation
+      - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # 🚀 Push both animations to the output branch
+      - name: Move Pacman SVG to dist
+        run: |
+          mkdir -p dist
+          cp pacman-contribution-graph.svg dist/
+
+      # Push both SVGs to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
