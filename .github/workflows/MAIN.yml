@@ -2,20 +2,26 @@ name: Generate Snake and Pacman Animations
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write    # required for checkout and push
+  pages: write       # required for GitHub Pages deployment
+
 jobs:
-  generate-animations:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # ensures full git history for contributions
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -23,7 +29,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
@@ -33,11 +39,10 @@ jobs:
       - name: Move SVGs to dist/
         run: |
           mkdir -p dist
-          cp pacman-contribution-graph.svg dist/
-          cp pacman-contribution-graph-dark.svg dist/ || true
+          mv pacman-contribution-graph*.svg dist/ || echo "No pacman SVG found"
 
-      - name: Deploy to GitHub Pages (output branch)
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
