@@ -7,9 +7,7 @@ Email Me 👉 ✉️ **prashanshiy@gmail.com** For Collaboration/Project or Anyt
 - 🌱 **I’m currently learning:** FullStack / DSA
 - 💬 **Ask me about:** Collaboration, Tech Support
 
-<img src="https://raw.githubusercontent.com/prashanshi11/prashanshi11/output/snake.svg" alt="Snake animation" />
 
-###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashanshi_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashanshi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Prashanshi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/prashanshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashanshiy@gmail.com) 
