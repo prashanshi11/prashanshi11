@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/prashanshi11/prashanshi11/blob/main/image/eye3.jpg" />
+  <img src="https://github.com/prashanshi11/prashanshi11/blob/main/image/profile2.png" />
 </p>
 
 <p align="center">
