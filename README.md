@@ -51,12 +51,108 @@ I'm Prashanshi Yadav — a passionate developer, curious technologist, and lifel
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prashanshi11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
 
-<details> <summary>📌 Click to view all pinned projects (card-style with badges)</summary> <br/> <table> <tr> <td><strong><a href="https://github.com/prashanshi11/DSA-Mastery-375">DSA-Mastery-375</a></strong><br/> 🚀 Curated DSA problems (375+) with solutions & roadmap.<br/> [![Made with](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://python.org) [![Stars](https://img.shields.io/github/stars/prashanshi11/DSA-Mastery-375?style=social)](https://github.com/prashanshi11/DSA-Mastery-375/stargazers) </td> </tr> <tr> <td><strong><a href="https://github.com/prashanshi11/Python_FullStack-4weekCourse">Python Full Stack Course</a></strong><br/> 🛠️ 4-week roadmap: HTML, CSS, JS, Flask/Django & MySQL.<br/> [![Flask](https://img.shields.io/badge/Backend-Flask-%23000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![Stars](https://img.shields.io/github/stars/prashanshi11/Python_FullStack-4weekCourse?style=social)](https://github.com/prashanshi11/Python_FullStack-4weekCourse/stargazers) </td> </tr> <tr> <td><strong><a href="https://github.com/prashanshi11/YOLOv8-Helmet-Detection">YOLOv8 Helmet Detection</a></strong><br/> 🧠 Real-time detection system using YOLOv8 and computer vision.<br/> [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-green?logo=opencv)](https://opencv.org) [![Stars](https://img.shields.io/github/stars/prashanshi11/YOLOv8-Helmet-Detection?style=social)](https://github.com/prashanshi11/YOLOv8-Helmet-Detection/stargazers) </td> </tr> <tr> <td><strong><a href="https://github.com/prashanshi11/Emotion-Detection-opencv">Emotion Detection (OpenCV)</a></strong><br/> 😄 Detects emotions in real-time via webcam using OpenCV + ML.<br/> [![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white)](https://opencv.org) [![Stars](https://img.shields.io/github/stars/prashanshi11/Emotion-Detection-opencv?style=social)](https://github.com/prashanshi11/Emotion-Detection-opencv/stargazers) </td> </tr> <tr> <td><strong><a href="https://github.com/prashanshi11/INNO-Students">INNO Students</a></strong><br/> 📲 Android app for student projects, feedback & documentation uploads.<br/> [![Android](https://img.shields.io/badge/Made%20with-Kotlin-blueviolet?logo=kotlin)](https://developer.android.com/kotlin) [![Stars](https://img.shields.io/github/stars/prashanshi11/INNO-Students?style=social)](https://github.com/prashanshi11/INNO-Students/stargazers) </td> </tr> <tr> <td><strong><a href="https://github.com/prashanshi11/Hacktoberfest-2022">Hacktoberfest 2022</a></strong><br/> 🎉 Beginner-friendly open-source contributions from Hacktoberfest.<br/> [![Open Source](https://img.shields.io/badge/Contributions-Open--Source-brightgreen?logo=github)](https://github.com/prashanshi11/Hacktoberfest-2022) [![Stars](https://img.shields.io/github/stars/prashanshi11/Hacktoberfest-2022?style=social)](https://github.com/prashanshi11/Hacktoberfest-2022/stargazers) </td> </tr> </table> </details>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/prashanshi11?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-30363D?style=for-the-badge&logo=github&logoColor=white" alt="See All Projects Button" />
-  </a>
-</p>
+---
 
+### 🧑‍💻 Programming & DSA (Language Focused)
+
+<table>
+<tr>
+
+<!-- DSA Mastery -->
+<td width="47%">
+<a href="https://github.com/prashanshi11/DSA-Mastery-375" target="_blank">
+🧠<br>
+<img src="https://img.shields.io/badge/DSA--Mastery-30--Days-blueviolet?style=for-the-badge&logo=leetcode"><br><br>
+<b>DSA-Mastery-375</b>
+</a>
+<p>🚀 Master DSA in 30 days with 375 curated problems. Perfect prep for tech interviews (FAANG & more).</p>
+</td>
+
+<!-- Hacktoberfest -->
+<td width="47%">
+<a href="https://github.com/prashanshi11/Hacktoberfest-2022" target="_blank">
+🍁<br>
+<img src="https://img.shields.io/badge/Hacktoberfest-Contribution-blue?style=for-the-badge&logo=github"><br><br>
+<b>Hacktoberfest-2022</b>
+</a>
+<p>🌍 Contributions to open-source as part of Hacktoberfest — boosting community learning & collaboration.</p>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🤖 Machine Learning & AI Projects
+
+<table>
+<tr>
+
+<!-- YOLO Helmet -->
+<td width="47%">
+<a href="https://github.com/prashanshi11/YOLOv8-Helmet-Detection" target="_blank">
+🦺<br>
+<img src="https://img.shields.io/badge/Helmet--Detection-YOLOv8-green?style=for-the-badge&logo=opencv"><br><br>
+<b>YOLOv8-Helmet-Detection</b>
+</a>
+<p>🎯 Real-time safety monitoring system using YOLOv8 & OpenCV. Detects if construction workers wear helmets via webcam feed.</p>
+</td>
+
+<!-- Emotion Detection -->
+<td width="47%">
+<a href="https://github.com/prashanshi11/Emotion-Detection-opencv" target="_blank">
+😊<br>
+<img src="https://img.shields.io/badge/Emotion--Detection-Live--Face--Tracking-ff69b4?style=for-the-badge&logo=face-recognition"><br><br>
+<b>Emotion-Detection-opencv</b>
+</a>
+<p>🎭 CNN-based real-time system that detects facial emotions like Happy, Sad, and Angry using OpenCV and deep learning.</p>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 📱 Android Projects
+
+<table>
+<tr>
+
+<!-- INNO Students -->
+<td width="47%">
+<a href="https://github.com/prashanshi11/INNO-Students" target="_blank">
+📲<br>
+<img src="https://img.shields.io/badge/INNO--Students-Android--App-brightgreen?style=for-the-badge&logo=android"><br><br>
+<b>INNO-Students</b>
+</a>
+<p>📚 Kotlin + Firebase app for student project submission, funding, and feedback — with secure login and clean UI.</p>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🌐 Web Development / Full Stack
+
+<table>
+<tr>
+
+<!-- Python Full Stack -->
+<td width="47%">
+<a href="https://github.com/prashanshi11/Python_FullStack-4weekCourse" target="_blank">
+🌐<br>
+<img src="https://img.shields.io/badge/Python--FullStack-4--Weeks-orange?style=for-the-badge&logo=python"><br><br>
+<b>Python_FullStack-4weekCourse</b>
+</a>
+<p>💻 Learn Python full stack in 4 weeks — from Flask/Django to HTML, JS, CSS, and MySQL with daily mini-projects.</p>
+</td>
+
+</tr>
+</table>
+
+</div>
