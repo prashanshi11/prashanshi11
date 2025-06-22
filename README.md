@@ -8,23 +8,37 @@
   <img src="https://badges.pufler.dev/repos/prashanshi11"/>
   <img src="https://badges.pufler.dev/commits/monthly/prashanshi11" />
 </p>
-### 🚀 About Me
+## 🚀 About Me
 
-I'm Prashanshi Yadav — a passionate developer, curious technologist, and lifelong learner with expertise in Machine Learning, Android Development (Kotlin), and Full-Stack Development (Java & Python). I enjoy crafting scalable, user-focused solutions and bringing ideas to life through code.
+I'm **Prashanshi Yadav** — a passionate developer, curious technologist, and lifelong learner specializing in:
 
-💡 I love exploring the intersection of artificial intelligence and real-world development, especially in areas like computer vision, automation, and intelligent systems.
+- 🤖 **Machine Learning**
+- 📱 **Android Development (Kotlin)**
+- 🌐 **Full-Stack Development (Java & Python)**
 
-🔭 At present, I'm focused on building end-to-end Python Full Stack applications while consistently leveling up my DSA problem-solving skills.
+I love building scalable, user-focused solutions and bringing ideas to life through clean, efficient code.
 
-🤝 I'm always open to meaningful collaborations, open-source contributions, freelance gigs, and innovative project opportunities.
+💡 I'm especially excited about the intersection of **AI and real-world development** — including areas like computer vision, automation, and intelligent systems.
 
-✨ When I'm not coding, I enjoy documenting my tech journey on GitHub, mentoring peers, and contributing to the developer community.
+---
 
+### 🎯 Current Focus
 
+- 🔭 Building: End-to-end **Python Full Stack applications**
+- 🌱 Learning: **Full Stack Web Development** and **Data Structures & Algorithms (DSA)**
 
-- 🔭 **Currently working on:** Python Full Stack Projects  
-- 🌱 **Actively learning:** Full Stack Development & Data Structures and Algorithms  
-- 💬 **Ask me about:** ML Projects, Android Development, Open Source, or Tech Career Guidance  
+---
+
+### 🤝 Let's Connect
+
+I'm always open to:
+- Collaborations 🤝
+- Open-source contributions 🌍
+- Freelance opportunities 💼
+- Mentoring and community building 💬
+
+When I’m not coding, I enjoy sharing my journey on GitHub and contributing to the tech community.
+
 
 ---
 
