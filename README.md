@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/prashanshi11/prashanshi11"/> 
   <img src="https://badges.pufler.dev/years/prashanshi11"/> 
   <img src="https://badges.pufler.dev/repos/prashanshi11"/>
   <img src="https://badges.pufler.dev/commits/monthly/prashanshi11" />
