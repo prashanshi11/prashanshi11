@@ -89,6 +89,8 @@ When I’m not coding, I enjoy sharing my journey on GitHub and contributing to 
 <table> <tr> <td><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></td> </tr> </table>
 🌐 Portfolio & Hosting
 <table> <tr> <td><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/Responsive--Design-00C853?style=for-the-badge&logo=responsive&logoColor=white"/></td> </tr> </table>
+
+
 ---
 
 
