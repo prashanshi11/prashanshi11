@@ -40,19 +40,27 @@ When I’m not coding, I enjoy sharing my journey on GitHub and contributing to 
 
 
 ---
+## 📊 GitHub Stats
 
-📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanshi11&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanshi11&theme=github-dark-blue" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanshi11&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" width="48%" />
+ <img src="https://streak-stats.demolab.com?user=prashanshi11&theme=radical&hide_border=true&border_radius=15" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanshi11&layout=compact&theme=radical&hide_border=true&border_radius=15" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanshi11&theme=dracula&area=true&hide_border=true" width="95%" />
+</div>
+
+
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prashanshi11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<div align="center">
-
-<div align="center">
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=prashanshi11&theme=radical&no-frame=true&no-bg=false&margin-w=15" /> </div>
 
 ---
 
