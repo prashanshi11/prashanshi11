@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/prashanshi11/prashanshi11/blob/main/image/profile2.png" />
 </p>
+
+<a href="https://www.github.com/prashanshi11" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/prashanshi11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ## 🚀 About Me
 
 I'm **Prashanshi Yadav** — a passionate developer, curious technologist, and lifelong learner specializing in:
@@ -44,10 +47,6 @@ When I’m not coding, I enjoy sharing my journey on GitHub and contributing to 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanshi11&layout=compact&theme=radical&hide_border=true&border_radius=15" width="50%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanshi11&theme=dracula&area=true&hide_border=true" width="95%" />
 </div>
 
 
