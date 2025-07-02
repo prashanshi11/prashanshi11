@@ -1,12 +1,6 @@
 <p align="center">
   <img src="https://github.com/prashanshi11/prashanshi11/blob/main/image/profile2.png" />
 </p>
-
-<p align="center">
-  <img src="https://badges.pufler.dev/years/prashanshi11"/> 
-  <img src="https://badges.pufler.dev/repos/prashanshi11"/>
-  <img src="https://badges.pufler.dev/commits/monthly/prashanshi11"/>
-</p>
 ## 🚀 About Me
 
 I'm **Prashanshi Yadav** — a passionate developer, curious technologist, and lifelong learner specializing in:
