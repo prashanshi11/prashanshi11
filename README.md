@@ -42,7 +42,7 @@ When I’m not coding, I enjoy sharing my journey on GitHub and contributing to 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashanshi11&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" width="48%" />
- <img src="https://streak-stats.demolab.com?user=prashanshi11&theme=radical&hide_border=true&border_radius=15" width="48%" />
+ <img src="https://streak-stats.demolab.com?user=prashanshi11&theme=radical&hide_border=true&border_radius=15" width="48%"/>
 </div>
 
 <div align="center">
